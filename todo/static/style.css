@@ -1,0 +1,16 @@
+.banner {
+     background-color:LightCoral;
+
+     width : 150%;
+     height : 150px;
+     margin-bottom :3%;
+
+}
+
+.banner-text {
+     top: 10%;
+     left: 40%;
+     position :absolute;
+     transform:transform
+
+}
